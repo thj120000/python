@@ -1,0 +1,16 @@
+#!@Author : Sanwat
+#!@File : .py
+'''
+1，例如绘制图表标题的title（）函数
+'''
+import matplotpab.pyplot as plt
+plt.title(r'$\alpha> betas$')
+
+'''
+2,Ipython notebook 文件markdown格子
+$$= \sqrt {a^2+b^2}$$
+'''
+'''
+3,上下标
+r'$\sum_{i=0}\infty x_i$'
+'''
